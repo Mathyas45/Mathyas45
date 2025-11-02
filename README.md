@@ -6,7 +6,7 @@ Actualmente curso una **Maestría en Ingeniería de software** en la **Universid
 ---
 
 ### 🧠 **Sobre mí**
-- 💻 Desarrollador **Backend** con experiencia en **Laravel (v9–11)** y **PostgreSQL**.
+- 💻 Desarrollador **Backend** con experiencia en **Laravel (v9–12)** y **PostgreSQL**.
 - 🌐 Construyo **APIs RESTful** seguras y escalables, aplicando el patrón **MVC**.
 - ⚙️ He trabajado también como **Full Stack** en proyectos monolíticos, usando **PHP con Blade, HTML, CSS y JS nativo**.
 - 🚀 Conocimientos en **Node.js**, **JavaScript**, **Redis**, **Greenter (Facturación electrónica)** y **JWT Auth**.
