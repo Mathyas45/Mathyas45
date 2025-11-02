@@ -14,7 +14,7 @@
 - 💾 Experiencia sólida con **PostgreSQL** y **MySQL**, aplicando diseño y optimización de consultas.  
 - 🌐 También he trabajado como **Full Stack Developer** en proyectos **monolíticos**, integrando frontend y backend con **Laravel Blade**, **HTML**, **CSS** y **JavaScript nativo**.  
 - 🧾 Conocimientos en **Greenter (facturación electrónica con SUNAT)** y consumo de **APIs REST**.  
-- 🎯 Actualmente curso una **Maestría en Ingeniería Informática** en la **Universidad Ricardo Palma**, enfocada en arquitectura y liderazgo técnico.  
+- 🎯 Actualmente curso una **Maestría en Ingeniería de software** en la **Universidad Ricardo Palma**, enfocada en arquitectura y liderazgo técnico.  
 
 ---
 
@@ -34,7 +34,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
