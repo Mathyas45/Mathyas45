@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Mathyas Coronado
 
-🎓 **Ingeniero de Sistemas** con más de **2 años de experiencia en desarrollo backend y web**, especializado en **PHP, Laravel y Node.js**.  
-Actualmente curso una **Maestría en Ingeniería Informática** en la **Universidad Ricardo Palma**, enfocándome en arquitectura de software y desarrollo escalable.
+🎓 **Bachiller en Ingeniería de Sistemas** con más de **2 años de experiencia en desarrollo backend y web**, especializado en **PHP, Laravel y Node.js**.  
+Actualmente curso una **Maestría en Ingeniería de software** en la **Universidad Ricardo Palma**, enfocándome en arquitectura de software y desarrollo escalable.
 
 ---
 
