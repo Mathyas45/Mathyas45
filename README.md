@@ -2,7 +2,7 @@
 <h1 align="center">🚀 ¡Hola! Soy <span style="color:#00FFFF;">Mathyas Coronado</span> 👋</h1>
 
 <p align="center">
-  💻 <b>Ingeniero de Sistemas</b> | 🧠 <b>Desarrollador Backend</b> | 🌐 <b>Laravel · Node.js · PostgreSQL</b><br>
+  💻 <b>Ingeniero de Sistemas</b> | 🧠 <b>Desarrollador Backend</b> |  <b>Laravel · Node.js · PostgreSQL</b><br>
   <i>Apasionado por construir sistemas eficientes, seguros y escalables.</i>
 </p>
 
@@ -18,7 +18,13 @@
 - 💾 Experiencia sólida con **PostgreSQL** y **MySQL**, enfocada en **diseño y optimización de consultas**.  
 - 🌐 También he trabajado como **Full Stack Developer** en proyectos **monolíticos**, integrando frontend y backend con **Laravel Blade**, **HTML**, **CSS** y **JavaScript nativo**.  
 - 🧾 Conocimientos en **Greenter (facturación electrónica con SUNAT)** y desarrollo de **APIs RESTful**.  
-- 🎯 Actualmente curso una **Maestría en Ingeniería de Software** en la **Universidad Ricardo Palma**, con enfoque en **arquitectura y liderazgo técnico**.  
+- 🎯 Actualmente curso una **Maestría en Ingeniería de Software** en la **Universidad Ricardo Palma**, con enfoque en **arquitectura y liderazgo técnico**.
+
+- conoce mas sobre mi en mi portafolio web :)
+
+  <a href="https://mathyas-coronado-portafolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 
 ---
 
@@ -82,7 +88,7 @@
   <a href="https://www.linkedin.com/in/mathyas-alonzo-coronado-martinez-570491234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mathyascoronado.netlify.app" target="_blank">
+  <a href="https://mathyas-coronado-portafolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="mathyascoronado@gmail.com" target="_blank">
